@@ -1,0 +1,45 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 6.25rem;
+    background-color: #333333;
+    z-index: 1;
+    font-family: "Roboto", sans-serif;
+}
+
+.nav-brand {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+}
+
+nav h1 {
+    font-family: "Grenze";
+    font-weight: bolder;
+    font-size: 2.4rem;
+    color: #FFFFFF;
+}
+
+
+.nav-list,
+ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+li,a {
+    text-decoration: none;
+    list-style: none;
+    font-size: 1.2rem;
+    color: #8695A4;
+    transition: color 0.3s;
+}
+
+a:hover {
+    font-weight: 600;
+    color: #FFFFFF;
+}
