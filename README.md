@@ -1,3 +1,12 @@
+# Sobre o projeto:
+
+Projeto desenvolvido durante o curso de desenvolvimento front-end pelo santander tech+, onde foi possível explorar a tecnologia reactjs, bem como o uso da componetização, garantindo facilidade para abstração destes e uma fácil manutenção quando necessário!
+
+O projeto foi realizado a partir do seguinte link no figma ( https://www.figma.com/design/rWyLhkEgt6eHvApPaL0K36/Space-Flight-News-(2022)?node-id=0-1&p=f&t=Wn011gTN3ysApgvl-0 )  - onde todos os dados foram extraídos.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
