@@ -1,0 +1,24 @@
+#content-article {
+  display: flex;
+  gap: 1rem;
+}
+
+#content-article .article-infos h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 0.7rem;
+  color: white;
+}
+
+#content-article .article-infos h3 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #8695a4;
+  margin-bottom: 1rem;
+}
+
+#content-article .article-infos p {
+  color: white;
+}
+
+
